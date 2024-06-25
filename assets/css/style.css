@@ -35,6 +35,7 @@
  ul{
     display: flex;
     gap: 35px;
+    margin-right: 126px;
  }
  ul a{
     color:white;
@@ -50,6 +51,7 @@ background-color: #2F1893;
     text-align: center;
     cursor: pointer;
     margin-top: 6px;
+    margin-left: 115px;
  }
 
  .btn{
@@ -117,6 +119,7 @@ line-height: 28px;
 text-align: left;
 color:white;
 margin-top: 6px;
+
  }
  .input-box{
     margin-top: 70px;
